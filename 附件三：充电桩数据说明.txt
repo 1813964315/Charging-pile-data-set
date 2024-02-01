@@ -1,0 +1,14 @@
+列分别包含：
+插入充电桩时间
+拔出充电桩时间
+星期
+到达停车位时间（与插入充电桩时间相同）
+充电持续时间（min）
+保持连接但不充电时间（min）
+停留时间（min）
+充电量（kWh）
+地点（有三个，分别为：加州理工、jpl实验室、硅谷办公室）
+
+原始数据来源：加州理工大学 adaptive chagring network项目（https://ev.caltech.edu/dataset）
+数据处理：Github项目（https://github.com/yvenn-amara/EV-Load-Open-Data）
+注：非商业用途请注明数据来源
